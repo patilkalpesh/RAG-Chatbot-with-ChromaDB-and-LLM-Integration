@@ -15,11 +15,11 @@ This project is a **Retrieval-Augmented Generation (RAG) Chatbot** that combines
 - **Message Queue & Cache**: RabbitMQ, Redis
 
 ## **Video Demo**
-
-[![Project Demo](https://github.com/patilkalpesh/RAG-Chatbot-with-ChromaDB-and-LLM-Integration/blob/main/data/Thumbnail.png)](https://drive.google.com/file/d/1_0L86sPzRxhvStVrlQE6943b-BvsT5mF/view?usp=drive_link)
 ```
 https://drive.google.com/file/d/1_0L86sPzRxhvStVrlQE6943b-BvsT5mF/view?usp=drive_link
 ```
+[![Project Demo](https://github.com/patilkalpesh/RAG-Chatbot-with-ChromaDB-and-LLM-Integration/blob/main/data/Thumbnail.png)](https://drive.google.com/file/d/1_0L86sPzRxhvStVrlQE6943b-BvsT5mF/view?usp=drive_link)
+
 
 ## **Setup**
 
